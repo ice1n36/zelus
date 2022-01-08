@@ -1,6 +1,6 @@
 # zelus
 
-A new Flutter project.
+Zelus is the greek daimon that personifies dedication (amongst other things like eager rivalry).  Zelus will help you stay dedicated to your goals
 
 ## Getting Started
 
